@@ -10,9 +10,9 @@ flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
 flask-cors = "*"
 gunicorn = "*"
-psycopg = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.12"
+python_version = "3.11"

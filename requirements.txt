@@ -1,9 +1,0 @@
-certifi==2023.7.22
-distlib==0.3.7
-filelock==3.12.4
-gunicorn==21.2.0
-packaging==23.2
-pipenv==2023.10.3
-platformdirs==3.11.0
-setuptools==68.2.2
-virtualenv==20.24.5
